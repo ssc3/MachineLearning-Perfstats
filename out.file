@@ -1,0 +1,1010 @@
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           233,169 L1-dcache-loads                                             
+            10,692 L1-dcache-load-misses     #    4.59% of all L1-dcache hits  
+           123,188 L1-dcache-stores                                            
+
+       0.001017191 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           233,088 L1-dcache-loads                                             
+            10,656 L1-dcache-load-misses     #    4.57% of all L1-dcache hits  
+           122,460 L1-dcache-stores                                            
+
+       0.000507129 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           234,696 L1-dcache-loads                                             
+            10,762 L1-dcache-load-misses     #    4.59% of all L1-dcache hits  
+           123,327 L1-dcache-stores                                            
+
+       0.001114937 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           233,123 L1-dcache-loads                                             
+            10,599 L1-dcache-load-misses     #    4.55% of all L1-dcache hits  
+           122,227 L1-dcache-stores                                            
+
+       0.001447115 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,216 L1-dcache-loads                                             
+            10,601 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           120,430 L1-dcache-stores                                            
+
+       0.001401877 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,299 L1-dcache-loads                                             
+            10,505 L1-dcache-load-misses     #    4.60% of all L1-dcache hits  
+           120,625 L1-dcache-stores                                            
+
+       0.001422729 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,335 L1-dcache-loads                                             
+            10,593 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           121,643 L1-dcache-stores                                            
+
+       0.001456341 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,701 L1-dcache-loads                                             
+            11,395 L1-dcache-load-misses     #    4.94% of all L1-dcache hits  
+           121,181 L1-dcache-stores                                            
+
+       0.001574795 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,515 L1-dcache-loads                                             
+            10,539 L1-dcache-load-misses     #    4.59% of all L1-dcache hits  
+           121,299 L1-dcache-stores                                            
+
+       0.001440225 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,202 L1-dcache-loads                                             
+            10,758 L1-dcache-load-misses     #    4.69% of all L1-dcache hits  
+           120,260 L1-dcache-stores                                            
+
+       0.001503202 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,061 L1-dcache-loads                                             
+            10,446 L1-dcache-load-misses     #    4.56% of all L1-dcache hits  
+           119,711 L1-dcache-stores                                            
+
+       0.001411425 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,357 L1-dcache-loads                                             
+            10,578 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           120,404 L1-dcache-stores                                            
+
+       0.001471305 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,792 L1-dcache-loads                                             
+            10,634 L1-dcache-load-misses     #    4.65% of all L1-dcache hits  
+           120,568 L1-dcache-stores                                            
+
+       0.001470272 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,595 L1-dcache-loads                                             
+            10,757 L1-dcache-load-misses     #    4.66% of all L1-dcache hits  
+           122,497 L1-dcache-stores                                            
+
+       0.001461964 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           233,207 L1-dcache-loads                                             
+            11,364 L1-dcache-load-misses     #    4.87% of all L1-dcache hits  
+           122,807 L1-dcache-stores                                            
+
+       0.001632436 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,700 L1-dcache-loads                                             
+            10,754 L1-dcache-load-misses     #    4.68% of all L1-dcache hits  
+           121,290 L1-dcache-stores                                            
+
+       0.001434150 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,197 L1-dcache-loads                                             
+            13,059 L1-dcache-load-misses     #    5.72% of all L1-dcache hits  
+           121,100 L1-dcache-stores                                            
+
+       0.001760385 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,908 L1-dcache-loads                                             
+            10,527 L1-dcache-load-misses     #    4.60% of all L1-dcache hits  
+           120,844 L1-dcache-stores                                            
+
+       0.001467481 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,927 L1-dcache-loads                                             
+            11,072 L1-dcache-load-misses     #    4.82% of all L1-dcache hits  
+           121,743 L1-dcache-stores                                            
+
+       0.001549598 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,297 L1-dcache-loads                                             
+            10,715 L1-dcache-load-misses     #    4.67% of all L1-dcache hits  
+           121,380 L1-dcache-stores                                            
+
+       0.001514919 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,786 L1-dcache-loads                                             
+            10,423 L1-dcache-load-misses     #    4.56% of all L1-dcache hits  
+           120,340 L1-dcache-stores                                            
+
+       0.001447426 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,004 L1-dcache-loads                                             
+            10,552 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           120,576 L1-dcache-stores                                            
+
+       0.001446112 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           235,011 L1-dcache-loads                                             
+            11,203 L1-dcache-load-misses     #    4.77% of all L1-dcache hits  
+           124,855 L1-dcache-stores                                            
+
+       0.001562853 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           227,890 L1-dcache-loads                                             
+            10,462 L1-dcache-load-misses     #    4.59% of all L1-dcache hits  
+           120,300 L1-dcache-stores                                            
+
+       0.001422485 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,221 L1-dcache-loads                                             
+            10,595 L1-dcache-load-misses     #    4.60% of all L1-dcache hits  
+           121,275 L1-dcache-stores                                            
+
+       0.001453655 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,924 L1-dcache-loads                                             
+            10,764 L1-dcache-load-misses     #    4.68% of all L1-dcache hits  
+           121,757 L1-dcache-stores                                            
+
+       0.001505377 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,007 L1-dcache-loads                                             
+            10,837 L1-dcache-load-misses     #    4.71% of all L1-dcache hits  
+           121,911 L1-dcache-stores                                            
+
+       0.001472593 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,960 L1-dcache-loads                                             
+            10,558 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           120,855 L1-dcache-stores                                            
+
+       0.001357894 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,833 L1-dcache-loads                                             
+            10,871 L1-dcache-load-misses     #    4.71% of all L1-dcache hits  
+           122,169 L1-dcache-stores                                            
+
+       0.001482506 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,422 L1-dcache-loads                                             
+            11,048 L1-dcache-load-misses     #    4.79% of all L1-dcache hits  
+           121,870 L1-dcache-stores                                            
+
+       0.001493941 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,619 L1-dcache-loads                                             
+            10,898 L1-dcache-load-misses     #    4.75% of all L1-dcache hits  
+           121,937 L1-dcache-stores                                            
+
+       0.001503132 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,635 L1-dcache-loads                                             
+            10,460 L1-dcache-load-misses     #    4.56% of all L1-dcache hits  
+           121,388 L1-dcache-stores                                            
+
+       0.001393483 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,264 L1-dcache-loads                                             
+            10,722 L1-dcache-load-misses     #    4.66% of all L1-dcache hits  
+           121,719 L1-dcache-stores                                            
+
+       0.001482400 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,839 L1-dcache-loads                                             
+            10,678 L1-dcache-load-misses     #    4.65% of all L1-dcache hits  
+           121,548 L1-dcache-stores                                            
+
+       0.001412542 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,823 L1-dcache-loads                                             
+            10,847 L1-dcache-load-misses     #    4.72% of all L1-dcache hits  
+           120,870 L1-dcache-stores                                            
+
+       0.001520662 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           227,864 L1-dcache-loads                                             
+            10,307 L1-dcache-load-misses     #    4.52% of all L1-dcache hits  
+           120,091 L1-dcache-stores                                            
+
+       0.001494773 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,955 L1-dcache-loads                                             
+            10,588 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           120,666 L1-dcache-stores                                            
+
+       0.001438395 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,270 L1-dcache-loads                                             
+            10,718 L1-dcache-load-misses     #    4.65% of all L1-dcache hits  
+           121,497 L1-dcache-stores                                            
+
+       0.001463697 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           231,109 L1-dcache-loads                                             
+            11,140 L1-dcache-load-misses     #    4.82% of all L1-dcache hits  
+           121,409 L1-dcache-stores                                            
+
+       0.001597581 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,666 L1-dcache-loads                                             
+            10,624 L1-dcache-load-misses     #    4.63% of all L1-dcache hits  
+           121,155 L1-dcache-stores                                            
+
+       0.001452472 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,607 L1-dcache-loads                                             
+            10,548 L1-dcache-load-misses     #    4.57% of all L1-dcache hits  
+           121,906 L1-dcache-stores                                            
+
+       0.001454882 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,066 L1-dcache-loads                                             
+            10,498 L1-dcache-load-misses     #    4.58% of all L1-dcache hits  
+           120,124 L1-dcache-stores                                            
+
+       0.001492222 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           235,221 L1-dcache-loads                                             
+            11,590 L1-dcache-load-misses     #    4.93% of all L1-dcache hits  
+           125,371 L1-dcache-stores                                            
+
+       0.001527909 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,281 L1-dcache-loads                                             
+            10,682 L1-dcache-load-misses     #    4.64% of all L1-dcache hits  
+           122,109 L1-dcache-stores                                            
+
+       0.001461929 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,119 L1-dcache-loads                                             
+            10,683 L1-dcache-load-misses     #    4.64% of all L1-dcache hits  
+           121,791 L1-dcache-stores                                            
+
+       0.001455540 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,477 L1-dcache-loads                                             
+            10,574 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           120,991 L1-dcache-stores                                            
+
+       0.001423421 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,450 L1-dcache-loads                                             
+            11,094 L1-dcache-load-misses     #    4.81% of all L1-dcache hits  
+           122,265 L1-dcache-stores                                            
+
+       0.001490239 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,380 L1-dcache-loads                                             
+            10,867 L1-dcache-load-misses     #    4.72% of all L1-dcache hits  
+           121,778 L1-dcache-stores                                            
+
+       0.001432713 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,705 L1-dcache-loads                                             
+            10,822 L1-dcache-load-misses     #    4.69% of all L1-dcache hits  
+           122,577 L1-dcache-stores                                            
+
+       0.001473590 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,291 L1-dcache-loads                                             
+            10,590 L1-dcache-load-misses     #    4.60% of all L1-dcache hits  
+           121,087 L1-dcache-stores                                            
+
+       0.001486454 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,756 L1-dcache-loads                                             
+            10,956 L1-dcache-load-misses     #    4.77% of all L1-dcache hits  
+           121,600 L1-dcache-stores                                            
+
+       0.001562281 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,838 L1-dcache-loads                                             
+            10,924 L1-dcache-load-misses     #    4.73% of all L1-dcache hits  
+           121,938 L1-dcache-stores                                            
+
+       0.001435799 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,238 L1-dcache-loads                                             
+            10,585 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           120,937 L1-dcache-stores                                            
+
+       0.001418821 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,315 L1-dcache-loads                                             
+            11,028 L1-dcache-load-misses     #    4.79% of all L1-dcache hits  
+           121,222 L1-dcache-stores                                            
+
+       0.001419548 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,314 L1-dcache-loads                                             
+            10,566 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           120,384 L1-dcache-stores                                            
+
+       0.001461983 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,963 L1-dcache-loads                                             
+            10,741 L1-dcache-load-misses     #    4.67% of all L1-dcache hits  
+           121,986 L1-dcache-stores                                            
+
+       0.001393849 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           231,443 L1-dcache-loads                                             
+            11,176 L1-dcache-load-misses     #    4.83% of all L1-dcache hits  
+           122,455 L1-dcache-stores                                            
+
+       0.001506089 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,856 L1-dcache-loads                                             
+            10,837 L1-dcache-load-misses     #    4.71% of all L1-dcache hits  
+           121,919 L1-dcache-stores                                            
+
+       0.001451881 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,629 L1-dcache-loads                                             
+            10,577 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           121,281 L1-dcache-stores                                            
+
+       0.001458686 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,316 L1-dcache-loads                                             
+            10,749 L1-dcache-load-misses     #    4.69% of all L1-dcache hits  
+           120,540 L1-dcache-stores                                            
+
+       0.001447841 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           232,019 L1-dcache-loads                                             
+            11,238 L1-dcache-load-misses     #    4.84% of all L1-dcache hits  
+           123,089 L1-dcache-stores                                            
+
+       0.001471245 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,505 L1-dcache-loads                                             
+            10,643 L1-dcache-load-misses     #    4.64% of all L1-dcache hits  
+           120,554 L1-dcache-stores                                            
+
+       0.001375362 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,061 L1-dcache-loads                                             
+            10,729 L1-dcache-load-misses     #    4.66% of all L1-dcache hits  
+           121,952 L1-dcache-stores                                            
+
+       0.001308425 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,660 L1-dcache-loads                                             
+            10,667 L1-dcache-load-misses     #    4.64% of all L1-dcache hits  
+           120,973 L1-dcache-stores                                            
+
+       0.001490043 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,563 L1-dcache-loads                                             
+            10,911 L1-dcache-load-misses     #    4.75% of all L1-dcache hits  
+           121,480 L1-dcache-stores                                            
+
+       0.001467667 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,922 L1-dcache-loads                                             
+            10,838 L1-dcache-load-misses     #    4.71% of all L1-dcache hits  
+           121,946 L1-dcache-stores                                            
+
+       0.001521704 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,696 L1-dcache-loads                                             
+            10,583 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           121,336 L1-dcache-stores                                            
+
+       0.001453329 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,903 L1-dcache-loads                                             
+            10,663 L1-dcache-load-misses     #    4.64% of all L1-dcache hits  
+           120,657 L1-dcache-stores                                            
+
+       0.001467822 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,642 L1-dcache-loads                                             
+            11,189 L1-dcache-load-misses     #    4.85% of all L1-dcache hits  
+           122,261 L1-dcache-stores                                            
+
+       0.001526972 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,521 L1-dcache-loads                                             
+            10,631 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           121,673 L1-dcache-stores                                            
+
+       0.001409866 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           231,278 L1-dcache-loads                                             
+            11,062 L1-dcache-load-misses     #    4.78% of all L1-dcache hits  
+           122,103 L1-dcache-stores                                            
+
+       0.001456146 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,762 L1-dcache-loads                                             
+            10,870 L1-dcache-load-misses     #    4.71% of all L1-dcache hits  
+           121,692 L1-dcache-stores                                            
+
+       0.001259354 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,705 L1-dcache-loads                                             
+            10,954 L1-dcache-load-misses     #    4.75% of all L1-dcache hits  
+           122,297 L1-dcache-stores                                            
+
+       0.001517871 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           231,740 L1-dcache-loads                                             
+            11,126 L1-dcache-load-misses     #    4.80% of all L1-dcache hits  
+           123,027 L1-dcache-stores                                            
+
+       0.001479704 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,423 L1-dcache-loads                                             
+            10,654 L1-dcache-load-misses     #    4.64% of all L1-dcache hits  
+           121,296 L1-dcache-stores                                            
+
+       0.001305289 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,733 L1-dcache-loads                                             
+            10,833 L1-dcache-load-misses     #    4.70% of all L1-dcache hits  
+           122,227 L1-dcache-stores                                            
+
+       0.001470694 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,155 L1-dcache-loads                                             
+            10,627 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           121,261 L1-dcache-stores                                            
+
+       0.001385420 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,619 L1-dcache-loads                                             
+            10,840 L1-dcache-load-misses     #    4.72% of all L1-dcache hits  
+           121,526 L1-dcache-stores                                            
+
+       0.001433835 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,443 L1-dcache-loads                                             
+            10,603 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           121,195 L1-dcache-stores                                            
+
+       0.001444780 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           228,237 L1-dcache-loads                                             
+            10,425 L1-dcache-load-misses     #    4.57% of all L1-dcache hits  
+           120,630 L1-dcache-stores                                            
+
+       0.001445892 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           231,172 L1-dcache-loads                                             
+            11,617 L1-dcache-load-misses     #    5.03% of all L1-dcache hits  
+           122,368 L1-dcache-stores                                            
+
+       0.001462034 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,072 L1-dcache-loads                                             
+            10,691 L1-dcache-load-misses     #    4.65% of all L1-dcache hits  
+           121,750 L1-dcache-stores                                            
+
+       0.001292750 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,514 L1-dcache-loads                                             
+            10,678 L1-dcache-load-misses     #    4.65% of all L1-dcache hits  
+           121,457 L1-dcache-stores                                            
+
+       0.001465311 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,126 L1-dcache-loads                                             
+            10,619 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           121,607 L1-dcache-stores                                            
+
+       0.001436581 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           231,227 L1-dcache-loads                                             
+            11,456 L1-dcache-load-misses     #    4.95% of all L1-dcache hits  
+           122,619 L1-dcache-stores                                            
+
+       0.001553281 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,366 L1-dcache-loads                                             
+            10,605 L1-dcache-load-misses     #    4.62% of all L1-dcache hits  
+           121,146 L1-dcache-stores                                            
+
+       0.001438375 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,235 L1-dcache-loads                                             
+            10,611 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           121,296 L1-dcache-stores                                            
+
+       0.001463563 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,544 L1-dcache-loads                                             
+            11,203 L1-dcache-load-misses     #    4.86% of all L1-dcache hits  
+           122,162 L1-dcache-stores                                            
+
+       0.001344242 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           233,474 L1-dcache-loads                                             
+            10,905 L1-dcache-load-misses     #    4.67% of all L1-dcache hits  
+           123,478 L1-dcache-stores                                            
+
+       0.001472473 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           227,943 L1-dcache-loads                                             
+            10,340 L1-dcache-load-misses     #    4.54% of all L1-dcache hits  
+           120,351 L1-dcache-stores                                            
+
+       0.001484867 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,364 L1-dcache-loads                                             
+            10,457 L1-dcache-load-misses     #    4.56% of all L1-dcache hits  
+           121,233 L1-dcache-stores                                            
+
+       0.001444755 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,550 L1-dcache-loads                                             
+            10,617 L1-dcache-load-misses     #    4.63% of all L1-dcache hits  
+           120,587 L1-dcache-stores                                            
+
+       0.001419667 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,230 L1-dcache-loads                                             
+            10,855 L1-dcache-load-misses     #    4.71% of all L1-dcache hits  
+           121,548 L1-dcache-stores                                            
+
+       0.001525659 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,577 L1-dcache-loads                                             
+            10,769 L1-dcache-load-misses     #    4.69% of all L1-dcache hits  
+           120,674 L1-dcache-stores                                            
+
+       0.001474227 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,087 L1-dcache-loads                                             
+            10,816 L1-dcache-load-misses     #    4.72% of all L1-dcache hits  
+           120,465 L1-dcache-stores                                            
+
+       0.001491821 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,931 L1-dcache-loads                                             
+            10,771 L1-dcache-load-misses     #    4.66% of all L1-dcache hits  
+           122,177 L1-dcache-stores                                            
+
+       0.001463167 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,960 L1-dcache-loads                                             
+            11,289 L1-dcache-load-misses     #    4.89% of all L1-dcache hits  
+           122,343 L1-dcache-stores                                            
+
+       0.001533426 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,132 L1-dcache-loads                                             
+            10,647 L1-dcache-load-misses     #    4.63% of all L1-dcache hits  
+           121,718 L1-dcache-stores                                            
+
+       0.001404980 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           229,079 L1-dcache-loads                                             
+            10,557 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           120,584 L1-dcache-stores                                            
+
+       0.001431299 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           230,469 L1-dcache-loads                                             
+            10,625 L1-dcache-load-misses     #    4.61% of all L1-dcache hits  
+           121,592 L1-dcache-stores                                            
+
+       0.001462961 seconds time elapsed
+
+Count = 9999
+
+ Performance counter stats for './a.out':
+
+           234,838 L1-dcache-loads                                             
+            10,644 L1-dcache-load-misses     #    4.53% of all L1-dcache hits  
+           123,518 L1-dcache-stores                                            
+
+       0.001449264 seconds time elapsed
+
